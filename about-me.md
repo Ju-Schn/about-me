@@ -6,3 +6,4 @@ I'm learning web development @neuefische talent school
 
 - GitHub
 - HTML
+- CSS
